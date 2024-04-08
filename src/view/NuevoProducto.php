@@ -19,7 +19,7 @@
 
         <div class="row">
             <div class="col">
-                <form method="post" action="../models/GuardarProducto.php" class="row g-4" autocomplete="off">
+                <form method="post" action="GuardarProducto.php" class="row g-4" autocomplete="off">
 
                     <div class="col-md-4">
                         <label for="codigo" class="form-label">Código</label>

@@ -81,7 +81,7 @@ if ($result) {
                     </div>
 
                     <div class="col-md-12">
-                        <a class="btn btn-secondary" href="index.php">Regresar</a>
+                        <a class="btn btn-secondary" href="../../index.php">Regresar</a>
                         <button type="submit" class="btn btn-primary">Guardar</button>
                     </div>
 
